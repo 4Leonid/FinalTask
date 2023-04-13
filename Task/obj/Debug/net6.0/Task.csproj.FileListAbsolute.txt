@@ -1,0 +1,15 @@
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/bin/Debug/net6.0/Task
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/bin/Debug/net6.0/Task.deps.json
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/bin/Debug/net6.0/Task.dll
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/bin/Debug/net6.0/Task.pdb
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.dll
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.pdb
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/4leo/Desktop/GB/Developer/FinalTask/Task/obj/Debug/net6.0/ref/Task.dll
